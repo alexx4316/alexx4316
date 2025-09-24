@@ -28,6 +28,6 @@ I'm currently focused on academic and technical projects that combine Java devel
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/alexx4316"><img src="https://github-readme-stats.vercel.app/api?username=alexx4316&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="alexx4316's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/alexx4316" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx4316&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
