@@ -1,54 +1,33 @@
-<h1 align="center">👋 Hola, soy Andrés García</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andres Garcia
+======================================================================================================================================
 
-<p align="center">
-Estudiante de <strong>Redes y Seguridad Informática</strong> | Apasionado por <strong>Java modular</strong>, <strong>troubleshooting</strong> y <strong>sistemas escalables</strong> 🔐
+Backend Developer
+-----------------
+
+👋 Hello! I'm Andrés, a developer passionate about technology and solving real-world problems. My training and experience span diverse areas such as software development, computer security, network administration, and systems engineering, allowing me to approach projects from multiple angles and with a holistic vision.
+
+I specialize in building modular, scalable, and well-structured solutions, applying solid object-oriented programming principles and best practices in validation, documentation, and technical presentation. I enjoy both the logical design behind the code and the debugging process, because I believe that understanding the "why" is just as important as making it work.
+
+Beyond the technical side, I deeply value teamwork. I easily adapt to new environments, roles, and methodologies, and I enjoy collaborating with people who bring different perspectives. I learn quickly, I like to share what I know, and I'm always looking to improve, iterate, and build something better than yesterday.
+
+I'm currently focused on academic and technical projects that combine Java development with security practices and network configuration. If you're interested in exchanging ideas, collaborating, or simply discussing how to make a system more robust, secure, and efficient, I'm here!
+
+* 🌍  I'm based in Colombia
+* ✉️  You can contact me at [andresgonzalez25022@gmail.com](mailto:andresgonzalez25022@gmail.com)
+* 🧠  I'm currently learning Development, Cybersecurity, Networks
+* 👥  I'm looking to collaborate on RiwiHub-Back
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
 
----
+### Socials
 
-## 🧠 Sobre mí
+<p align="left"> <a href="https://www.github.com/alexx4316" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/AFG#2213" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
 
-- 🎓 Actualmente estudiando redes y seguridad informática
-- 🧩 Me encanta entender la lógica detrás del código y mejorar estructuras existentes
-- 🛠️ Trabajo en sistemas CRUD modulares en Java con validación, GUI y conexión a base de datos
-- 🌐 Configuro redes en Cisco Packet Tracer, incluyendo routing estático y conectividad LAN
-- 📚 Siempre aprendiendo: regex, buenas prácticas, documentación técnica y arquitectura de software
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/alexx4316"><img src="https://github-readme-stats.vercel.app/api?username=alexx4316&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="alexx4316's GitHub stats" /></a>
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [Fruit CRUD System](https://github.com/andres-garcia/fruit-crud) | Sistema modular con GUI para gestión de frutas | Java, Swing, JDBC |
-| [Routing Lab](https://github.com/andres-garcia/static-routing) | Simulación de red con routing estático y pruebas de conectividad | Cisco PT |
-| [Regex Validator](https://github.com/andres-garcia/regex-validator) | Validación de entradas con expresiones regulares | Java, Regex |
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_PT-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Andrés's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andres-garcia&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-garcia&layout=compact&theme=radical)
-
----
-
-## 📫 Contacto
-
-- 📧 andres.garcia@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/andres-garcia)
-- 🧠 Siempre abierto a colaborar en proyectos técnicos y académicos
-
----
-
-> “La modularidad no es solo estructura, es claridad en la mente del desarrollador.” – Tú, probablemente 😄
+<a href="https://github.com/alexx4316" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx4316&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
