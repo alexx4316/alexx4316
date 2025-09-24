@@ -1,29 +1,46 @@
-👋 Hi there! I'm Andrés García
-🧠 Backend Developer | Cybersecurity Enthusiast | Network Explorer
+![👋 Hi, my name is Andres Garcia](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-🚀 About Me
-Soy un desarrollador colombiano con una mente inquieta y una pasión por construir soluciones que realmente funcionen. Me muevo con soltura entre el backend, la seguridad informática y la administración de redes, lo que me permite abordar proyectos desde una perspectiva integral y estratégica.
+![Profile views](https://komarev.com/ghpvc/?username=alexx4316&label=Profile%20views&color=0e75b6&style=flat)
 
-🔍 Me encanta entender cómo funcionan las cosas por dentro: desde el diseño lógico de un sistema hasta la depuración de errores que nadie quiere tocar. Creo que el código debe ser más que funcional: debe ser claro, escalable y mantenible.
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Andres Garcia
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-🤝 Trabajo bien en equipo, me adapto rápido a nuevos entornos y disfruto colaborar con personas que aportan ideas distintas. Siempre estoy aprendiendo, iterando y buscando cómo mejorar lo que hice ayer.
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="andresgonzalez25022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/alexx4316" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-🎯 Actualmente estoy enfocado en proyectos académicos y técnicos que combinan desarrollo en Java, prácticas de seguridad y configuración de redes. También estoy construyendo mi portafolio profesional para mostrar lo que sé hacer y cómo lo hago.
+ **<h3 align="center">I'm a Colombian developer with a curious mind and a passion for building solutions that really work. I move easily between backend, IT security, and network administration, which allows me to approach projects from a holistic and strategic perspective.
 
-📫 Contact Me
-🌍 Based in: Colombia
+🔍 I love understanding how things work internally: from the logical design of a system to debugging bugs that no one wants to touch. I believe code should be more than functional: it should be clear, scalable, and maintainable.
 
-✉️ Email: andresgonzalez25022@gmail.com
+🤝 I work well in teams, adapt quickly to new environments, and enjoy collaborating with people who bring different ideas. I'm always learning, iterating, and looking for ways to improve what I did yesterday.
 
-👥 Collaborating on: RiwiHub-Back
+🎯 I'm currently focused on academic and technical projects that combine Java development, security practices, and network configuration. I'm also building my professional portfolio to showcase what I know how to do and how I do it.</h3>**
 
-🧠 Currently learning: Development • Cybersecurity • Networks
+**<h3 align="left">Rapid Fire</h3>**
 
-🛠️ Tech Stack
-<p align="left"> <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="36" height="36" /></a> <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36" /></a> <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="36" height="36" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36" /></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36" /></a> </p>
+- 🌱 I'm currently learning: **Development, Cybersecurity, Networks**
+- 💬 Ask me about: **💡 JavaScript, Java, Python, MongoDB, MySql and RESTful APIs**
+- ⚡ Fun fact: **😴 The solutions come to me when I'm sleeping**
 
-🌐 Socials
-<p align="left"> <a href="https://github.com/alexx4316" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://discord.com/users/AFG#2213" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a> </p>
+ **<h3 align="left">Skills</h3>**
 
-📊 GitHub Stats
-<a href="https://github.com/alexx4316"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexx4316&langs_count=10&layout=donut-vertical&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="28" alt="IntelliJ IDEA" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexx4316&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexx4316&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexx4316&repo=java&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
+
