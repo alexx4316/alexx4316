@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="//https:www.linkedin.com/in/andres-felipe-gonzalez-garcia-a30726268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
+<p align="left"><a href="https://www.linkedin.com/in/andres-felipe-gonzalez-garcia-a30726268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
 <a href="https://github.com/alexx4316" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="center">I'm a Colombian developer with a curious mind and a passion for building solutions that really work. I move easily between backend, IT security, and network administration, which allows me to approach projects from a holistic and strategic perspective.
